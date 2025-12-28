@@ -1,4 +1,5 @@
 # 💫 About Me:
+Currently working on <br>
 <br>A cross-platform React Native mobile app for an architecture & construction company — focused on clean UI, strong UX, and real-world usability.<br>Frontend / mobile projects, especially React, React Native, UI/UX design systems, and product-focused apps.<br>App architecture, performance optimization, backend integration, and scaling a production-ready mobile app.<br>Advanced React Native patterns, animations & micro-interactions, app scalability, and modern UI/UX principles.<br>React, React Native, frontend development, UI/UX design, project structuring, and tech for startups.<br>I care more about how an app feels than just how it works — polish matters.
 
 
